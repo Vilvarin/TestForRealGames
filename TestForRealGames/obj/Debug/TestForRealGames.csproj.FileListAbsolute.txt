@@ -1,0 +1,6 @@
+c:\users\vilvarin\documents\visual studio 2013\Projects\TestForRealGames\TestForRealGames\bin\Debug\TestForRealGames.exe.config
+C:\Users\Vilvarin\Documents\Visual Studio 2013\Projects\TestForRealGames\TestForRealGames\obj\Debug\TestForRealGames.csprojResolveAssemblyReference.cache
+C:\Users\Vilvarin\Documents\Visual Studio 2013\Projects\TestForRealGames\TestForRealGames\bin\Debug\TestForRealGames.exe
+C:\Users\Vilvarin\Documents\Visual Studio 2013\Projects\TestForRealGames\TestForRealGames\bin\Debug\TestForRealGames.pdb
+C:\Users\Vilvarin\Documents\Visual Studio 2013\Projects\TestForRealGames\TestForRealGames\obj\Debug\TestForRealGames.exe
+C:\Users\Vilvarin\Documents\Visual Studio 2013\Projects\TestForRealGames\TestForRealGames\obj\Debug\TestForRealGames.pdb
